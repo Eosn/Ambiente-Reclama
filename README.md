@@ -14,4 +14,4 @@ Para encerrar a sessão, basta clicar no botão “Log out”. Só é possível 
 
 ## Objetivo e criadores
 Trabalho solicitado pelo professor de Desenvolvimento de Sistemas, Vitor Faiçal Campana, no Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Campus Serra. Dezembro, 2019. O objetivo do trabalho é exercitar as relações entre cliente e programador. Um grupo deve solicitar à outro que seja feito um programa e/ou website seguindo as especificações desejadas e fazer o programa/website solicitado por outro grupo.
-<b>Membros do grupo:<b> [Éllen Neves](https://github.com/Eosn) e Maria Gabriela Tavares.
+<b>Membros do grupo:</b> [Éllen Neves](https://github.com/Eosn) e Maria Gabriela Tavares.
